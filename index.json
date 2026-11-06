@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "ansible-build-data",
+  "versions": [
+    {
+      "commit": "1db43b29ddd6ac154ccbe890136ddf21f49a31b9",
+      "tag": "14.6.0",
+      "parsed_at": "2026-11-06T20:08:11.305180+00:00"
+    }
+  ]
+}
